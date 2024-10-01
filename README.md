@@ -1,5 +1,5 @@
-# OJAN-switch-circuit
-Repository for ojan switch circuit 
+# OJAN-FIREALARM
+Repository for ojan firealarm
 
 int main() {
      int smokeDetected = 1; // 1 for true , 0 for false 
@@ -12,6 +12,7 @@ int main() {
     }  
      elseif (smokeDetected || 
     temperatureHigh);
+
 
     {
       printf("Warning: Check for potential fire hazzards.\n" );
